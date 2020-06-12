@@ -12,7 +12,7 @@ public class Hello {
 
     @GetMapping("/hello")
     public String sayHello() {
-        return "hello from service";
+        return "hello from service main hun man :)";
     }
 
 @GetMapping("/image")
